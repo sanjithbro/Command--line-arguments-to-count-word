@@ -30,7 +30,7 @@ Register no: 212223230191
 import sys
 count=0
 with open (sys.argv[1]) as f1:
-   for line in f!:
+   for line in f1:
       word=line.split()
       count+=len(word)
 print("Total no of words in file is",count)
