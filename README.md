@@ -36,7 +36,7 @@ with open (sys.argv[1]) as f1:
 print("Total no of words in file is",count)
 ```
 ### OUTPUT:
-![Uploading 329762254-b7c41b16-2366-449f-9cb8-cc382d60a5fd (1).jpg…]()
+![329762254-b7c41b16-2366-449f-9cb8-cc382d60a5fd (1)](https://github.com/sanjithbro/Command--line-arguments-to-count-word/assets/167451460/dacb830a-2906-4041-9492-7c05ed31d795)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
